@@ -1,6 +1,9 @@
 <div id="badges">
   <a href="https://www.linkedin.com/in/niv-peled-93605180/">
-    <img src="[https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/niv-peled-93605180/">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </div>
 
