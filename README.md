@@ -1,8 +1,8 @@
 <div id="badges">
-  <a href="https://www.linkedin.com/in/niv-peled-93605180/">
+  <a href="https://www.linkedin.com/in/niv-peled-93605180/" style="text-decoration:none">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/niv-peled-93605180/">
+  <a href="https://www.linkedin.com/in/niv-peled-93605180/" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </div>
