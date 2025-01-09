@@ -1,4 +1,4 @@
-<div id="badges">
+<!-- <div id="badges">
   <a href="https://www.linkedin.com/in/niv-peled-93605180/" style="text-decoration:none !important">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
@@ -8,7 +8,7 @@
 </div>
 
 ---
-
+-->
 ### :man_technologist: About Me:
 
 
