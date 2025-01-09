@@ -12,7 +12,7 @@
 ### :man_technologist: About Me:
 
 
-- 💻 I am a software engineer, currently employed as a data scientist and software development team lead.
+- 💻 I am a software engineer, currently employed as a data science researcher and software development team lead.
 - 📐 I strive to keep a broad set of skills, involving myself with DevOps, Networking, Research, and various languages and technologies.
 - 🐧 An advocate for FOSS, I create open-source projects in my free time for various conveniences and ideas I have.
 - 💼 I tutor high-school and first-year college students on various subjects in the Computer Science and Mathematics fields.
